@@ -165,7 +165,7 @@ input, label{
 
 .menu-container{
   margin: 110px auto;
-  padding: 10px 13%;
+  padding: 10px 5%;
 }
 
 .menu-container h2{
@@ -181,14 +181,13 @@ input, label{
 .cards{
   margin-top: 30px;
   display: flex;
-  justify-content: space-between;
+  justify-content:space-around;
   align-items: center;
   flex-wrap: wrap;
   gap: 2rem 1rem;
 }
 
 .menu-items{
-  /* height: 400px; */
   width: 350px;
   background: #a9c8be;
   border-radius: 8px;
